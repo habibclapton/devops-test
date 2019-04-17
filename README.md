@@ -14,4 +14,4 @@ Tu as un compte et peut utiliser n'importe quel produit au besoin (bucket, EC2,p
 L'exercice est faisable en 2h environ.
 
 
-![test architecture](/devops-test/devops.png)
+![test architecture](/devops_test/devops.png)
