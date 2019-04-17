@@ -12,3 +12,6 @@ XXXeu-west-1-alb.amazonaws.com/products ==> ... product service
 Absoluement tous les éléments doivent être cloudformation-isé : infra, lambda, services etc ...
 Tu as un compte et peut utiliser n'importe quel produit au besoin (bucket, EC2,pusher les builds dans ECR etc ...).
 L'exercice est faisable en 2h environ.
+
+
+![alt text](https://raw.githubusercontent.com/habibclapton/devops-test/master/devops.png)
