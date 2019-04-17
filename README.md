@@ -5,7 +5,7 @@ L'objectif de l'exercice est de construire totalement via cloudformation les él
 sur le schéma devops.png. Il y a plusieurs façon de faire, et l'organisation choisie
 sera un critère de jugement du travail fourni.
 2 app de tests sont fournis dans le dossier service. Il faudra mettre (entre autres choses) en output de stack 
-un lien vers les 2 apps déployées sur ECS. Il sera également attendu de déployer une lambda (vous avez le choix du langage) afin de gérer les hooks de lifecycle quand une instance est mise dans l'état "Terminated". Comme le reste, cette lambda devra être incluse dans une stack.
+un lien vers les 2 apps déployées sur ECS. Il sera également attendu de déployer une lambda (vous avez le choix du langage) afin de gérer les hooks de lifecycle quand une instance est mise dans l'état "Terminating". Comme le reste, cette lambda devra être incluse dans une stack.
 XXXeu-west-1-alb.amazonaws.com/ ==> website service
 XXXeu-west-1-alb.amazonaws.com/products ==> ... product service
 
